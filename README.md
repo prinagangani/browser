@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
   
-  <img src = "C:\Users\prina\OneDrive\Pictures\web.jpg" height=35% width=22%>
+  <img src = "https://user-images.githubusercontent.com/123531128/228432854-97033d36-a68a-47f1-89d5-30f7492c6dd8.jpg" height=35% width=22%>
   
   </p>
+
